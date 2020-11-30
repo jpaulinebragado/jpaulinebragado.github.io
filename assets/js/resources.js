@@ -1,7 +1,5 @@
 new TypeIt("#heading", {
-    strings: "Study, then what?",
+    strings: "Resources",
     speed: 75,
     loop: false
   }).go();
-
-  
