@@ -55,13 +55,3 @@ audio {
     align-items: center;
 }
 
-.footer {
-    position: relative;
-    bottom: -30px;
-    left: 0;
-    right: 0;
-    font-size: 12px;
-    text-align: center;
-    height: auto;
-    margin-bottom: 20px;
-}
